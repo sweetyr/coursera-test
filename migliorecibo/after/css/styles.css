@@ -269,7 +269,10 @@ h3.menu-item-tile{
   font-size: 18px;
 }
 
-
+.discount{
+	color: #cc9966;
+  font-size: 18px;
+}
 /* END- SINGLE CATEGORY PAGE */
 
 /********** Large devices only **********/
